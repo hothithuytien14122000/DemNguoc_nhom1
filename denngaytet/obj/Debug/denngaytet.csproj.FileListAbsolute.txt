@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\denngaytet\denngaytet\bin\Debug\denngaytet.exe.config
+C:\Users\ADMIN\source\repos\denngaytet\denngaytet\bin\Debug\denngaytet.exe
+C:\Users\ADMIN\source\repos\denngaytet\denngaytet\bin\Debug\denngaytet.pdb
+C:\Users\ADMIN\source\repos\denngaytet\denngaytet\obj\Debug\denngaytet.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\denngaytet\denngaytet\obj\Debug\denngaytet.Form1.resources
+C:\Users\ADMIN\source\repos\denngaytet\denngaytet\obj\Debug\denngaytet.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\denngaytet\denngaytet\obj\Debug\denngaytet.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\denngaytet\denngaytet\obj\Debug\denngaytet.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\denngaytet\denngaytet\obj\Debug\denngaytet.exe
+C:\Users\ADMIN\source\repos\denngaytet\denngaytet\obj\Debug\denngaytet.pdb
